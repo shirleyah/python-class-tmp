@@ -2,7 +2,7 @@
 
 [Describir la problemática que se pretende resolver con el script, la forma en que este funciona, así como el tipo de pruebas que se ejecutarán.
 
-Ejemplo:
+Este es un ejemplo:
 
 Este documento describe los casos de prueba para el script de Python desarrollado para calcular la suma de números de un archivo. El objetivo de estas pruebas es validar y garantizar que el script funciona correctamente y cumple con las especificaciones.
 
